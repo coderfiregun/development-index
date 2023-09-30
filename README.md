@@ -15,6 +15,7 @@ Flutter - Complete cross platform App development
 <br> Java
 <br> https://www.geeksforgeeks.org/java-8-features/
 <br> https://www.baeldung.com/spring-tutorial
+<br> https://www.geeksforgeeks.org/collections-in-java-2/
 <br> Flask
 <br> https://pypi.org/ 
 <br> https://flask.palletsprojects.com/en/2.3.x/
